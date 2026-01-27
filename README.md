@@ -4,9 +4,11 @@
 
 -Estudante de Engenharia de Software
 
--Formei minhas experiencias na area pelas empresas Otimize-TI e Master Tecnologia
+-Formei minhas experiências na área pelas empresas Otimize-TI e Master Tecnologia
 
--Estou em constante aprendizado, buscando evoluir tecnicamente, adquirir experiência prática e me manter atualizado com as novas tecnologias e boas práticas do desenvolvimento de software
+-Sou uma pessoa comunicativa, com facilidade para trabalho em equipe, aberta a feedbacks e sempre disposta a aprender novas tecnologias
+
+-Email: matheussetmaier590@gmail.com
  
 ## Ferramentas:
 
