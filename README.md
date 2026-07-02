@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Sou Matheus Setmaier Artiaga Posterli
 
 -Estudante de Engenharia de Software
