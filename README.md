@@ -1,12 +1,16 @@
 ## Sou Matheus Setmaier Artiaga Posterli
 
--Estudante de Engenharia de Software
+- Estudante de Engenharia de Software
 
--Formei minhas experiências na área pelas empresas Otimize-TI e Master Tecnologia
+Atualmente atuo no desenvolvimento de aplicações back-end utilizando Python, trabalhando com APIs REST, bancos de dados relacionais e ferramentas voltadas ao desenvolvimento web.
 
--Sou uma pessoa comunicativa, com facilidade para trabalho em equipe, aberta a feedbacks e sempre disposta a aprender novas tecnologias
+Tenho interesse em desenvolvimento back-end, arquitetura de software e criação de aplicações escaláveis.
 
--Email: matheussetmaier590@gmail.com
+## Contatos
+
+Email: matheussetmaier590@gmail.com
+
+Linkedin: https://www.linkedin.com/in/matheus-setmaier-473759328/
  
 ## Ferramentas:
 
